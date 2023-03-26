@@ -7,5 +7,5 @@
 
 - 💬 Ask me about **Java, Python, Big Data and Competitive Programming**
 
-- 📫 How to reach me **saurrb@gmail.com**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/saurrb/)**
 
